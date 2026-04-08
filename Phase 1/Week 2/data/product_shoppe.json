@@ -1,32 +1,25 @@
-{
-   "items": [
+[
+  {
+    "items": [
       {
-         "id": 1,
-         "name": "Tai nghe Bluetooth Sony",
-         "price": 2500000,
-         "shop": {
-            "name": "Sony Official Store",
-            "city": "Hà Nội"
-         }
+        "id": 1,
+        "name": "Tai nghe Bluetooth Sony",
+        "price": 2500000,
+        "shop": { "name": "Sony Official Store", "city": "Hà Nội" }
       },
       {
-         "id": 2,
-         "name": "Loa Marshall Emberton",
-         "price": 3800000,
-         "shop": {
-            "name": "Marshall Vietnam",
-            "city": "TP.HCM"
-         }
+        "id": 2,
+        "name": "Loa Marshall Emberton",
+        "price": 3800000,
+        "shop": { "name": "Marshall Vietnam", "city": "TP.HCM" }
       },
       {
-         "id": 3,
-         "name": "Bàn phím cơ Keychron K2",
-         "price": 3200000,
-         "shop": {
-            "name": "Keychron Vietnam",
-            "city": "Hà Nội"
-         }
+        "id": 3,
+        "name": "Bàn phím cơ Keychron K2",
+        "price": 3200000,
+        "shop": { "name": "Keychron Vietnam", "city": "Hà Nội" }
       }
-   ],
-   "total_price": 9500000
-}
+    ],
+    "total_price": 9500000
+  }
+]

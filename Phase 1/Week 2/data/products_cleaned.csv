@@ -1,0 +1,6 @@
+id,name,price,category,quantity,total,last_updated
+1,Laptop,1500,Electronics,10,15000,2026-04-08 16:23:06.650952
+4,Monitor,200,Electronics,10,2000,2026-04-08 16:23:06.650952
+10,Tablet,300,Electronics,10,3000,2026-04-08 16:23:06.650952
+11,Smartphone,800,Electronics,10,8000,2026-04-08 16:23:06.650952
+12,Tablet,300,Electronics,10,3000,2026-04-08 16:23:06.650952

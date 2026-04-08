@@ -1,0 +1,13 @@
+id,name,price,category,quantity
+1,Laptop,1500,Electronics,10
+2,Mouse,25,Accessories,0
+3,Keyboard,45,Accessories,0
+4,Monitor,200,Electronics,10
+5,Headset,50,Accessories,0
+6,Webcam,60,Electronics,10
+7,Speaker,80,Electronics,10
+8,USB Drive,15,Accessories,0
+9,Hard Drive,100,Electronics,10
+10,Tablet,300,Electronics,10
+11,Smartphone,800,Electronics,10
+12,Tablet,300,Electronics,10

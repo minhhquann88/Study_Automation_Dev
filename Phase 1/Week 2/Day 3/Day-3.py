@@ -4,8 +4,6 @@
 ##
 import json
 import os
-import os
-
 
 dict_product = {
     "name": "Laptop Dell XPS 13",
