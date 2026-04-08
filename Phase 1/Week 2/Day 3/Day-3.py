@@ -99,8 +99,8 @@ new_product = {
 
 with open("Phase 1/Week 2/Day 3/product_shoppe.json", "r", encoding="utf-8") as file:
     df = json.load(file)
-    print(df["items"][:5])
-    total = sum(item.get("price", 0) for item in df["items"])
+print(df["items"][:5])
+total = sum(item.get("price", 0) for item in df["items"])
 
 # them truong total_price vao root
 df["total_price"] = total
